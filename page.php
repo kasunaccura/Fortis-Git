@@ -18,7 +18,7 @@ get_header();
 <!-- dgfdgfgdgfgdf -->
 	<main id="primary" class="site-main">
 
-	<!-- <input type="text" id="kasun_id" value="4"> -->
+
 
 <section id="home_banner" class="">
 	<div id="home_banner_container" style='background-image: url("<?php echo get_field('home_banner'); ?>")'>
