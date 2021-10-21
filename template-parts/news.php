@@ -13,9 +13,6 @@
 
 
 
-<!-- <script src="app.js"></script> -->
-
-
 <!-- <h1>Masonry - horizontalOrder</h1>
 
 <div class="row grid">
